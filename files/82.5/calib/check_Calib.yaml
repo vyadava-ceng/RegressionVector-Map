@@ -1,0 +1,64 @@
+%YAML:1.0
+---
+Number of samples: 5
+objects:
+   -
+      distance: 0
+      matrix: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+      matrix1: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+   -
+      distance: 1
+      matrix: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+      matrix1: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+   -
+      distance: 2
+      matrix: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+      matrix1: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+   -
+      distance: 3
+      matrix: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+      matrix1: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+   -
+      distance: 4
+      matrix: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]
+      matrix1: !!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: f
+         data: [ 1., 0., 0., 0., 1., 0., 0., 0., 1. ]

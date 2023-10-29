@@ -31,11 +31,11 @@
 int main()
 {
    std::vector<std::map< double, cv::Mat >> RegressionFront;
-   std::string filename = "/home/cvlab/Rajan/RegressionVector-Map/files/82.5/calib/Front_Transformation_Calib.yaml";
+   std::string filename = "//home/npd_user/Rajan/RegressionVector-Map/files/82.5/calib/Front_Transformation_Calib.yaml";
    //cv::Mat H = Readconfig(filename,"TransformationMatrix");
    
    cv::FileStorage fs;
-   filename = "/home/cvlab/Rajan/RegressionVector-Map/files/82.5/calib/check_Calib.yaml";
+   filename = "//home/npd_user/Rajan/RegressionVector-Map/files/82.5/calib/check_Calib.yaml";
    fs.open( filename, cv::FileStorage::WRITE);
    fs<<"Number of samples"<<5;
    fs << "objects"<<"[";
